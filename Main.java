@@ -1,4 +1,4 @@
-class Main {
+class Main {//author ALBAN HAPPI
     public static void main(String [] args){
         try{
             String poly=args[1];
